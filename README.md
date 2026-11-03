@@ -1,27 +1,75 @@
 # Hi, I'm Daniel 👋
 
-Full stack engineer with a background in ICT Engineering. I enjoy taking messy, complex processes and turning them into systems that just work, from the database to the interface.
+**Software Engineer | Full Stack Development | Process Automation & Systems Integration**
+
+I'm a software engineer with a background in Information and Communication Technologies and over five years of experience building, maintaining, and improving software.
+
+I enjoy understanding how complex systems work, finding what can be improved, and turning fragmented processes into reliable, maintainable solutions.
+
+For me, software engineering goes beyond writing code. It's about understanding problems, challenging existing approaches, and designing solutions that make a real difference.
 
 ## 🛠️ What I do
 
-- Design and refactor business processes end to end, front and back
-- Build the logic that decides *who does what, and when*: queues, priorities and routing rules
+- **Full Stack Development:** Build and maintain applications across frontend, backend, databases, and APIs.
+- **Process Automation:** Transform repetitive and complex workflows into efficient, structured processes.
+- **Systems Integration:** Connect applications, services, and data to improve operational workflows.
+- **Problem Solving:** Investigate root causes, identify architectural weaknesses, and implement sustainable improvements.
+- **Software Quality:** Focus on maintainability, testing, reliability, and continuous improvement.
 
-## 🚀 Highlights
+## 🚀 Selected Work & Projects
 
-- **Priority-based mass email flow:** Optimized bulk email delivery within a process taxonomy platform, using priority queues based on subject and message type so the most important messages go out first.
-- **Dynamic task assignment for a call center:** In my first role, I built a system that distributed incidents to agents using configurable rules, such as different quotas depending on each area. It's where I found what I love doing.
+### Nexo — Independent SaaS Project
 
-## 🧰 Tech stack
+*Founder & Developer | In Development*
 
-Java · JavaScript · Python · PHP · SQL
+Building **Nexo**, an independent SaaS project focused on simplifying administrative workflows for independent professionals and service providers in Mexico.
 
-## 🔍 Beyond code: Nomevendashumo.mx
+The project explores how technology can make everyday business operations easier to manage, with an emphasis on:
 
-*"No me vendas humo"* is Mexican slang for "don't sell me smoke," or "don't feed me hype." It's my content project about product quality: I break down what's really behind the marketing, from clothing and fabrics to personal care products, so people can tell real quality from a well-packaged scam.
+- Simple and intuitive user experiences.
+- Administrative workflow automation.
+- Financial and operational organization.
+- Privacy, security, and maintainable architecture.
+- Product development guided by real user needs.
 
-📸 Instagram: [@nomevendashumo.mx](https://instagram.com/nomevendashumo.mx)
+Currently focused on product validation, iterative development, and defining a sustainable path toward a commercial product.
 
-## 📫 Let's talk
+### Bulk Email Processing — Reliability & Workflow Optimization
 
-Always happy to chat about process design, clean code, or whether that $90 shirt is actually worth it.
+Investigated performance and saturation issues in an existing bulk email service, identifying underlying implementation problems.
+
+Proposed and developed improvements involving retry mechanisms, message prioritization, and more resilient processing workflows.
+
+The technical proposal was approved, with production deployment pending operational prerequisites.
+
+### Rule-Based Task Assignment — Call Center Operations
+
+Developed a configurable system for distributing incidents among call center agents according to operational rules, area-specific quotas, and assignment criteria.
+
+This was one of the projects that shaped my interest in business logic, process optimization, and building systems that solve operational problems.
+
+## 🧰 Tech Stack
+
+**Languages:** Java · JavaScript · Python · PHP · SQL
+
+**Web Development:** Laravel · Node.js · Vue.js · HTML · CSS
+
+**Databases:** MySQL · SQL Server
+
+**Engineering Interests:** Systems Integration · Automation · Software Testing · API Development · System Design
+
+## 🔍 Beyond Code — NoMeVendasHumo.mx
+
+*"No me vendas humo"* is a Mexican expression meaning something like *"Don't sell me hype."*
+
+It's my personal content project focused on looking beyond marketing claims and exploring what makes products genuinely worth their price.
+
+From clothing and fabrics to personal care products, I enjoy researching materials, product quality, and the details that influence purchasing decisions.
+
+📸 **Instagram:** [@nomevendashumo.mx](https://instagram.com/nomevendashumo.mx)
+
+## 📫 Let's Connect
+
+I'm always interested in discussing software engineering, process design, automation, product development, and ideas that turn everyday problems into useful technology.
+
+And occasionally, whether that expensive shirt is actually worth the price.
