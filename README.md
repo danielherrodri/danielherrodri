@@ -2,7 +2,7 @@
 
 **Software Engineer · Full Stack Development · Systems Integration · Process Automation**
 
-I'm an ICT engineer with five-plus years building and maintaining production software, first at izzi telecom and now at BBVA México. Most of my work starts with an operational problem: a process that breaks under load, a manual task that eats hours, two systems that don't talk to each other. I trace it to its root cause, propose a fix, and build it.
+I'm an Information Technology engineer with five-plus years building and maintaining production software, first at izzi telecom and now at BBVA México. Most of my work starts with an operational problem: a process that breaks under load, a manual task that eats hours, two systems that don't talk to each other. I trace it to its root cause, propose a fix, and build it.
 
 Outside my day job I design and build my own products end to end, from data model to deployment.
 
@@ -28,13 +28,13 @@ Outside my day job I design and build my own products end to end, from data mode
 **Stack.** Python · FastAPI · PostgreSQL · Firebase Authentication · Google Cloud Run · GitHub Actions
 **Status.** In development and commercial validation. The repository is private.
 
-### Shalom Platform · community platform prototype
+### Shalom Platform · community platform · *in development*
 
 **Problem.** A local church runs its children's ministry (check-in, attendance, groups, communications) on spreadsheets and manual processes.
 **My role.** Design and development of the public prototype and the foundation of version 1.
-**Approach.** A public demo with fictitious data to validate flows with the community, plus a React and Django foundation with access by role, accessibility checks and automated end-to-end tests. The system currently in use is a separate private project and is not published.
+**Approach.** A public demo with fictitious data to validate flows with the community, plus a React and Django foundation with access by role, accessibility checks and automated end-to-end tests.
 **Stack.** Python · Django · Django REST Framework · PostgreSQL · React · TypeScript · Vite · Playwright · Docker · GitHub Actions
-**Links.** [Live demo](https://danielherrodri.github.io/shalom-plataforma/) · [Repository](https://github.com/danielherrodri/shalom-plataforma)
+**Links.** [Live demo](https://danielherrodri.github.io/shalom-plataforma/) (the repository is private)
 
 ### AI-assisted development methodology · template
 
