@@ -1,100 +1,122 @@
-# Daniel Rodriguez Herrera
+<div align="center">
 
-**Software Engineer · Full Stack Development · Systems Integration · Process Automation**
+<img src="assets/profile-hero.svg" alt="Daniel Rodriguez Herrera — Software Engineer | Backend, Integration, Automation and Quality" width="100%"/>
 
-I'm an Information and Communication Technology engineer building and maintaining software since 2021, first at izzi telecom and now at BBVA México.
+<br/>
 
-I like taking complex operational processes and turning them into systems that work. That often starts with an incident, a repetitive task, or a gap between applications. I investigate the cause, work through the business rules, and carry the solution through implementation and validation.
+**Full Stack Development** · **Systems Integration** · **Process Automation**
 
-My work spans backend services, APIs, databases and web interfaces, with a particular interest in reliability and automation. Outside my day job, I lead independent software projects from product definition through development and testing.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0C1526?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rodriguez-herrera)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-0C1526?style=flat-square&logo=gmail&logoColor=white)](mailto:daniel199907@gmail.com)
+![Based in](https://img.shields.io/badge/Based%20in-Cuernavaca%2C%20Mexico-355E68?style=flat-square)
 
----
-
-## What I work on
-
-- **Full stack development** — backend services, REST APIs, relational data models and the interfaces people use to work with them.
-- **Systems integration** — connecting applications and data so processes can run with fewer manual hand-offs.
-- **Process automation** — translating operational rules into configurable workflows, including assignment, prioritization and notifications.
-- **Reliability and root-cause analysis** — investigating failures and designing retries, recovery paths and controls that address their causes.
-- **Engineering practice** — automated tests, CI workflows, environment separation and documented technical decisions.
+</div>
 
 ---
+
+## About me
+
+I'm an **Information and Communication Technology engineer** building and maintaining software since **2021**, first at **izzi telecom** and now at **BBVA México**.
+
+I enjoy turning complex operational problems into systems that work. It might start with an incident, a repetitive manual task, or two applications that don't communicate. My approach is to **understand the root cause, map the business rules, implement the solution, and validate the outcome**.
+
+My work spans APIs, backend services, databases, and web interfaces. Outside my day job, I lead independent software projects from product definition through development and testing, using AI-assisted development as part of a reviewable engineering process.
+
+## What I build
+
+| Focus | How I approach it |
+| :-- | :-- |
+| **Full-stack applications** | Backend services, REST APIs, relational data models, and practical web interfaces |
+| **Systems integration** | Connecting services and data to reduce manual hand-offs |
+| **Process automation** | Turning business rules into configurable assignment, prioritization, and notification workflows |
+| **Reliability & recovery** | Root-cause analysis, retry strategies, failure handling, and operational controls |
+| **Engineering delivery** | Automated tests, CI workflows, environment separation, and documented decisions |
 
 ## Professional experience
 
-### BBVA México · 2024–present
+### BBVA México <sub>2024 – Present</sub>
 
-Development and integration of technology solutions, with a focus on incident analysis, process automation and structural improvements to existing systems.
+**Software engineering · Integration · Operational reliability**
 
-- Investigated saturation and failure handling in a bulk email processing service, proposed a redesign, and implemented retry and prioritization mechanisms. The change was approved and implemented; production enablement remains pending.
-- Work across applications, APIs and operational workflows to identify root causes and turn improvement proposals into working software.
+- Investigated saturation and failure handling in a bulk email processing service, then proposed and implemented a redesign with prioritization and retry mechanisms. **The change was approved and implemented; production enablement is still pending.**
+- Work across applications, APIs, and operational workflows to trace incidents to their causes and turn improvement proposals into working software.
 
-### izzi telecom · 2021–2024
+### izzi telecom <sub>2021 – 2024</sub>
 
-Full stack development and maintenance of internal web applications using Laravel, PHP, JavaScript, Node.js, Vue.js, MySQL and SQL Server.
+**Full-stack development · Internal business applications**
 
-- Built a rule-based incident assignment system for call center agents, with configurable assignment rules and per-area quotas.
-- Developed and maintained the backend, database and web interface layers supporting internal operations.
+- Built a **rule-based incident assignment system** for call center agents, supporting configurable routing and per-area quotas.
+- Developed and maintained internal applications across backend, databases, and web interfaces using Laravel, PHP, JavaScript, Node.js, Vue.js, MySQL, and SQL Server.
 
----
+## Featured projects
 
-## Independent projects
+### 01 / Nexo
 
-### Nexo · SaaS for professional practices · *in development*
+**SaaS for professional practices in Mexico** · *In development*
 
-A modular platform for independent dentists and accounting practices in Mexico, shaped by conversations about how they manage appointments, fees, documents and collaboration.
+A modular platform for independent dental and accounting practices, shaped by conversations about appointments, fees, documents, and collaboration.
 
-I lead product definition, priorities, acceptance criteria and delivery review, using AI coding assistants throughout development. The work includes a navigable prototype, backend development and automated checks, with an emphasis on simple workflows, access permissions and controlled operating costs.
+I lead product definition, priorities, acceptance criteria, and delivery review. Development combines a navigable prototype, backend work, and automated checks, with attention to permissions, straightforward workflows, and controlled operating costs.
 
-**Technologies:** Python · FastAPI · PostgreSQL · JavaScript · Firebase Authentication · Playwright · GitHub Actions  
-**Status:** In development and commercial validation. Private repository; not yet a production service.
+`Python` · `FastAPI` · `PostgreSQL` · `JavaScript` · `Firebase Authentication` · `Playwright` · `GitHub Actions`
 
-### Shalom · community software · *in development*
+**Current status:** In development and commercial validation. Private repository; not a production service.
 
-A volunteer project for Iglesia Cristiana Shalom, covering children's ministry workflows and a broader community platform.
+### 02 / Shalom
 
-The work spans an existing QR attendance system for Shalom Kids and a separate platform prototype for families, volunteers and administrators. I lead requirements, workflow design and development with AI assistance, including documentation and usability review.
+**Community software · Volunteer initiative** · *In development*
 
-The public prototype uses fictitious data to gather feedback. The future platform has a separate React and Django foundation; it does not replace the operational Kids system yet.
+Software for **Iglesia Cristiana Shalom** covering children's ministry workflows and a broader platform for families, volunteers, and administrators.
 
-**Technologies:** Google Apps Script · Python · Django REST Framework · PostgreSQL · React · TypeScript · Playwright · Docker  
-**Explore:** [Platform walkthrough](https://danielherrodri.github.io/shalom-plataforma/bosquejo.html) · [Demo](https://danielherrodri.github.io/shalom-plataforma/)  
-**Status:** Public prototype and version 1 foundation in development. Private repository.
+The work includes an existing **QR attendance system for Shalom Kids** and a separate **community platform prototype**. I lead requirements, workflow design, development with AI assistance, documentation, and usability review.
 
-### AI-assisted development methodology · reusable template
+The public walkthrough uses fictional data. The future React/Django foundation is separate from — and does **not yet replace** — the operational Kids system.
 
-A workflow extracted from my own projects for making AI-assisted development easier to review and trace.
+`Google Apps Script` · `Python` · `Django REST Framework` · `PostgreSQL` · `React` · `TypeScript` · `Playwright` · `Docker`
 
-It separates implementation from independent review and provides project control documents, decision records, CI checks, release automation and configuration checks. I define the goals and acceptance criteria, review evidence and keep responsibility for the resulting product.
+**Explore:** [Platform walkthrough](https://danielherrodri.github.io/shalom-plataforma/bosquejo.html) · [Public demo](https://danielherrodri.github.io/shalom-plataforma/)
 
-**Technologies:** Markdown · Python · GitHub Actions  
-**Explore:** [Repository and methodology](https://github.com/danielherrodri/plantilla-metodologia-desarrollo-ia) · Documentation in Spanish
+**Current status:** Public prototype and version 1 foundation in development; source repository is private.
 
----
+### 03 / AI-assisted development methodology
 
-## Tech stack
+**Reusable engineering workflow** · *Open repository*
 
-Tools I use across professional work and independent projects:
+A reusable template built from lessons learned in my own projects. It separates implementation from independent review and brings together project-control documents, decision records, CI checks, release automation, and configuration validation.
 
-| Area | Tools |
-|---|---|
-| Languages | Java · Python · PHP · JavaScript · TypeScript · SQL |
-| Backend | Laravel · Django · Django REST Framework · FastAPI · Node.js |
-| Frontend | HTML · CSS · Vue.js · React · Vite |
-| Data | MySQL · SQL Server · PostgreSQL |
-| Testing and delivery | Playwright · Git · GitHub Actions · Docker |
-| Cloud and authentication | Google Cloud · Cloud Run · Firebase Authentication |
+AI helps execute the work; **I define the goals, acceptance criteria, evidence, and final delivery decisions**.
 
----
+`Markdown` · `Python` · `GitHub Actions`
+
+**Explore:** [Repository and methodology (Spanish)](https://github.com/danielherrodri/plantilla-metodologia-desarrollo-ia)
+
+## Technical toolkit
+
+Tools I've used across professional work and independent projects:
+
+| Area | Technologies |
+| :-- | :-- |
+| **Languages** | Java · Python · PHP · JavaScript · TypeScript · SQL |
+| **Backend** | Laravel · Django · Django REST Framework · FastAPI · Node.js |
+| **Frontend** | HTML · CSS · Vue.js · React · Vite |
+| **Databases** | MySQL · SQL Server · PostgreSQL |
+| **Quality & delivery** | Playwright · Git · GitHub Actions · Docker |
+| **Cloud & identity** | Google Cloud · Cloud Run · Firebase Authentication |
 
 ## Beyond code
 
-I run **[NoMeVendasHumo.mx](https://instagram.com/nomevendashumo.mx)**, a Spanish-language project about fabrics, materials and build quality. I look at what products are made of and whether their construction supports their marketing claims. That curiosity also shapes how I approach engineering: understand how something works, then check the evidence.
+I run **[NoMeVendasHumo.mx](https://instagram.com/nomevendashumo.mx)**, a Spanish-language project about fabrics, materials, and build quality. I explore what products are made of and whether their construction supports their marketing claims.
+
+That curiosity carries over to engineering: **understand how something works, then check the evidence.**
 
 ---
 
-## Contact
+<div align="center">
 
-- [LinkedIn](https://www.linkedin.com/in/daniel-rodriguez-herrera)
-- [daniel199907@gmail.com](mailto:daniel199907@gmail.com)
-- Cuernavaca, Morelos, Mexico
+**Let's connect**
+
+[LinkedIn](https://www.linkedin.com/in/daniel-rodriguez-herrera) · [Email](mailto:daniel199907@gmail.com) · Cuernavaca, Morelos, Mexico
+
+<sub>Systems that solve real problems. Engineering backed by evidence.</sub>
+
+</div>
